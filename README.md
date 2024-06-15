@@ -5,13 +5,14 @@
 </div>
 
 ```
-      /\         pl4sma@archlinux 
-     /  \        ---------------- 
-    /\   \       OS: Arch Linux x86_64 
-   /      \      DE: Xfce 4.18 
-  /   ,,   \     Theme: Tokyonight-Dark-BL
- /   |  |  -\    Terminal: kitty
-/_-''    ''-_\   Icons: Tela-circle-purple 
+
+      /\            ▐  Arch 
+     /  \           ▐  6.9.4-zen1-1-zen 
+    /\   \          ▐  1757 (pacman), 9 (flatpak) 
+   /      \         ▐  zsh 5.9 
+  /   ,,   \        ▐  kitty 
+ /   |  |  -\       ▐  sway 
+/_-''    ''-_\    󰍹  ▐  1920x1080 
 ```
 ```
 credits to aniko33
