@@ -6,13 +6,13 @@
 
 ```
 
-      /\            ▐  Arch 
-     /  \           ▐  6.9.4-zen1-1-zen 
-    /\   \          ▐  1757 (pacman), 9 (flatpak) 
-   /      \         ▐  zsh 5.9 
-  /   ,,   \        ▐  kitty 
- /   |  |  -\       ▐  sway 
-/_-''    ''-_\      ▐  1920x1080 
+      /\          D  ▐  Arch 
+     /  \         K  ▐  6.9.4-zen1-1-zen 
+    /\   \        P  ▐  1757 (pacman), 9 (flatpak) 
+   /      \       S  ▐  zsh 5.9 
+  /   ,,   \      T  ▐  kitty 
+ /   |  |  -\     W  ▐  sway 
+/_-''    ''-_\    M  ▐  1920x1080 
 ```
 ```
 credits to aniko33
